@@ -9,3 +9,4 @@ This repository is my practice of machine learning bootcamp by Alexey Grigorev [
 > * Deep Learning
 > * Serverless
 > * Kubernetes
+> * etc
